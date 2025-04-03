@@ -72,7 +72,7 @@ It provides a user-friendly interface with a **navigation panel** and a **modern
 **Recommended Steps**:
 ```bash
 # 1. Clone the repository
-git clone https://github.com/NileshChavan-academicprojects/Medical_Management_System
+git clone https://github.com/kajal-kupale/Medical_Management_System
 
 # 2. Navigate to the project directory
 cd MedicalManagementSystem
