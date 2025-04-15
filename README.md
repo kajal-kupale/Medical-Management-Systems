@@ -64,7 +64,7 @@ It provides a user-friendly interface with a **navigation panel** and a **modern
 
 ## Installation & Requirements
 
-1. **Python 3.7+** (recommended 3.9+)
+1. **Python 3.13+** (recommended 3.9+)
 2. **Tkinter** (usually included with most Python installations)
 3. **SQLite** (built into Python via the `sqlite3` library)
 4. **Clone or download** this repository
